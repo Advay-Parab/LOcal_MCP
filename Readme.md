@@ -1,4 +1,4 @@
-# 🤖 User Registration Chatbot with Local MCP Server
+# User Registration Chatbot with Local MCP Server
 
 A complete user registration system built with **Model Context Protocol (MCP)** that handles user registration through a conversational chatbot interface. The system stores data locally in CSV format, replacing the need for external services like Google Sheets or Zapier.
 
@@ -342,3 +342,4 @@ After completing this project, you'll understand:
 **Happy Coding! 🎉**
 
 Built with ❤️ using **Model Context Protocol**, **Streamlit**, and **Python**
+
