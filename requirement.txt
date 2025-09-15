@@ -1,0 +1,6 @@
+# Requirements for MCP Server
+mcp>=1.0.0
+
+# For the Streamlit chatbot (separate requirements)
+streamlit>=1.28.0
+requests>=2.31.0
